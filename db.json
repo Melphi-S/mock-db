@@ -217,32 +217,6 @@
       "price": 2300
     },
     {
-      "id": 37,
-      "sport_organization": "ГБОУ СОШ № 240",
-      "sport_type": "Бокс",
-      "year_from": 7,
-      "year_until": 18,
-      "address": {
-        "index": "198261",
-        "city": "Санкт- Петербург",
-        "metro": "",
-        "district": "Кировский район",
-        "street": "Бурцева",
-        "house": "12 лит А"
-      },
-      "location": [59.835306, 30.206705],
-      "rating": 4.0,
-      "review_amount": 2,
-      "schedule": {
-        "days": "Пятница",
-        "time": "19:00 - 20:00"
-      },
-      "title": "Мордобой",
-      "gender": "male",
-      "aviable": 26,
-      "price": 1600
-    },
-    {
       "id": 38,
       "sport_organization": "ГБДОУ детский сад № 46",
       "sport_type": "Легкая атлетика",
@@ -346,58 +320,6 @@
       "gender": ["male", "female"],
       "aviable": 10,
       "price": 500
-    },
-    {
-      "id": 43,
-      "sport_organization": "ДЮСШ №4",
-      "sport_type": "Йога",
-      "year_from": 15,
-      "year_until": 18,
-      "address": {
-        "index": "198095",
-        "city": "Санкт-Петербург",
-        "metro": "Ладожская",
-        "district": "Красногвардейский район",
-        "street": "Ленская",
-        "house": "2"
-      },
-      "location": [59.941466, 30.480413],
-      "rating": 3.89,
-      "review_amount": 4,
-      "schedule": {
-        "days": ["Вторник", "Четверг"],
-        "time": "19.00-20.00"
-      },
-      "title": "Life Style",
-      "gender": ["male", "female"],
-      "aviable": 10,
-      "price": 700
-    },
-    {
-      "id": 45,
-      "sport_organization": "ДЮСШ №123",
-      "sport_type": "Хореография",
-      "year_from": 3,
-      "year_until": 16,
-      "address": {
-        "index": "198095",
-        "city": "Санкт-Петербург",
-        "metro": "Ладожская",
-        "district": "Красногвардейский район",
-        "street": "Ленская",
-        "house": "2"
-      },
-      "location": [59.941466, 30.480413],
-      "rating": 3.89,
-      "review_amount": 4,
-      "schedule": {
-        "days": ["Вторник", "Четверг"],
-        "time": "19.00-20.00"
-      },
-      "title": "Life Style",
-      "gender": ["male", "female"],
-      "aviable": 10,
-      "price": 700
     }
   ]
 }
