@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
@@ -5,4 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/sport-mock-db.iml" filepath="$PROJECT_DIR$/.idea/sport-mock-db.iml" />
     </modules>
   </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sport-mock-db.iml" filepath="$PROJECT_DIR$/.idea/sport-mock-db.iml" />
+    </modules>
+  </component>
+>>>>>>> 98f67814b70d6037a8aa631914ec1897646516b2
 </project>
