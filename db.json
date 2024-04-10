@@ -5,7 +5,7 @@
       "title": "Модель 1",
       "paramValues": [
         {
-          "paramId": 1,
+          "id": 1,
           "param":  {
             "paramType":  {
               "id": 1,
@@ -15,7 +15,7 @@
           }
         },
         {
-          "paramId": 2,
+          "id": 2,
           "param":  {
             "paramType":  {
               "id": 2,
@@ -25,7 +25,7 @@
           }
         },
         {
-          "paramId": 3,
+          "id": 3,
           "param":  {
             "paramType":  {
               "id": 3,
@@ -41,7 +41,7 @@
       "title": "Модель 2",
       "paramValues": [
         {
-          "paramId": 1,
+          "id": 1,
           "param":  {
             "paramType":  {
               "id": 1,
@@ -51,7 +51,7 @@
           }
         },
         {
-          "paramId": 2,
+          "id": 2,
           "param":  {
             "paramType":  {
               "id": 2,
@@ -61,7 +61,7 @@
           }
         },
         {
-          "paramId": 3,
+          "id": 3,
           "param":  {
             "paramType":  {
               "id": 3,
@@ -77,7 +77,7 @@
       "title": "Модель 3",
       "paramValues": [
         {
-          "paramId": 1,
+          "id": 1,
           "param":  {
             "paramType":  {
               "id": 1,
@@ -87,7 +87,7 @@
           }
         },
         {
-          "paramId": 2,
+          "id": 2,
           "param":  {
             "paramType":  {
               "id": 2,
@@ -97,7 +97,7 @@
           }
         },
         {
-          "paramId": 3,
+          "id": 3,
           "param":  {
             "paramType":  {
               "id": 3,
