@@ -6,15 +6,33 @@
       "paramValues": [
         {
           "paramId": 1,
-          "value": "макси"
+          "param":  {
+            "paramType":  {
+              "id": 1,
+              "name": "длина"
+            },
+            "value": "макси"
+          }
         },
         {
           "paramId": 2,
-          "value": "повседневное"
+          "param":  {
+            "paramType":  {
+              "id": 2,
+              "name": "назначение"
+            },
+            "value": "вечернее"
+          }
         },
         {
           "paramId": 3,
-          "value": "ситец"
+          "param":  {
+            "paramType":  {
+              "id": 3,
+              "name": "материал"
+            },
+            "value": "ситец"
+          }
         }
       ]
     },
@@ -24,15 +42,33 @@
       "paramValues": [
         {
           "paramId": 1,
-          "value": "мини"
+          "param":  {
+            "paramType":  {
+              "id": 1,
+              "name": "длина"
+            },
+            "value": "мини"
+          }
         },
         {
           "paramId": 2,
-          "value": "вечернее"
+          "param":  {
+            "paramType":  {
+              "id": 2,
+              "name": "назначение"
+            },
+            "value": "вечернее"
+          }
         },
         {
           "paramId": 3,
-          "value": "шёлк"
+          "param":  {
+            "paramType":  {
+              "id": 3,
+              "name": "материал"
+            },
+            "value": "шёлк"
+          }
         }
       ]
     },
@@ -42,15 +78,33 @@
       "paramValues": [
         {
           "paramId": 1,
-          "value": "мини"
+          "param":  {
+            "paramType":  {
+              "id": 1,
+              "name": "длина"
+            },
+            "value": "мини"
+          }
         },
         {
           "paramId": 2,
-          "value": "повседневное"
+          "param":  {
+            "paramType":  {
+              "id": 2,
+              "name": "назначение"
+            },
+            "value": "повседневное"
+          }
         },
         {
           "paramId": 3,
-          "value": "хлопок"
+          "param":  {
+            "paramType":  {
+              "id": 3,
+              "name": "материал"
+            },
+            "value": "хлопок"
+          }
         }
       ]
     }
