@@ -1,6 +1,7 @@
 {
   "models": [
     {
+      "id": 1,
       "title": "Модель 1",
       "paramValues": [
         {
@@ -18,6 +19,7 @@
       ]
     },
     {
+      "id": 2,
       "title": "Модель 2",
       "paramValues": [
         {
@@ -35,6 +37,7 @@
       ]
     },
     {
+      "id": 3,
       "title": "Модель 3",
       "paramValues": [
         {
