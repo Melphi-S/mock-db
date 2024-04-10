@@ -33,6 +33,23 @@
           "value": "шёлк"
         }
       ]
+    },
+    {
+      "title": "Модель 3",
+      "paramValues": [
+        {
+          "paramId": 1,
+          "value": "мини"
+        },
+        {
+          "paramId": 2,
+          "value": "повседневное"
+        },
+        {
+          "paramId": 3,
+          "value": "хлопок"
+        }
+      ]
     }
   ],
   "params": [
